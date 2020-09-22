@@ -1,0 +1,11 @@
+{
+  "name": "captura",
+  "version": "1.0.0",
+  "description": "Envio de Relatorios Hora Hora Automatico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Amaral",
+  "license": "ISC"
+}
