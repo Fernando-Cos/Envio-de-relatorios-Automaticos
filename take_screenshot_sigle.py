@@ -55,7 +55,7 @@ while True:
 
     #E-MAIL DO REMETENTE.
     email_user = 'wellingthon957@gmail.com'
-    email_password = '963852741f'
+    email_password = '*************'
 
     #E-MAIL DO DESTINATÁRIOS
     list_destinatal = 'glaucimeiresilva34830@gmail.com, wellingthon741@gmail.com'
